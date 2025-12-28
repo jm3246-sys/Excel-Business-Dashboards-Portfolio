@@ -61,24 +61,56 @@ It demonstrates strong skills in Excel analytics, data preparation, and dashboar
 
 The primary goal of this dashboard is to:
 
-Monitor overall sales performance
+➤ Monitor overall sales performance
 
-Identify revenue trends over time
+➤ Identify revenue trends over time
 
-Analyze product and category contribution
+➤ Analyze product and category contribution
 
-Support quick, data-driven business decisions
+➤ Support quick, data-driven business decisions
 
 📊 **Key Insights from the Dashboard**
 
-Overview of total sales and revenue performance
+➤ Overview of total sales and revenue performance
 
-Time-based sales trends to identify growth patterns
+➤ Time-based sales trends to identify growth patterns
 
-Product / category-level performance analysis
+➤ Product / category-level performance analysis
+
+➤ Identification of top-performing and low-performing areas
+
+➤ Consolidated KPIs for management-level reporting
 
 
+## 3. **Cyera HR Employee Analytics Dashboard | Excel**
 
-Identification of top-performing and low-performing areas
+📌 **Project Overview**
 
-Consolidated KPIs for management-level reporting
+This project presents an HR Employee Analytics Dashboard built using Microsoft Excel to analyze workforce data and deliver insights related to employee demographics, distribution, and organizational metrics.
+The dashboard transforms raw HR data into a clear, structured, and visual format, enabling HR teams and leadership to make informed people-centric decisions.
+
+The project highlights strong capabilities in Excel-based analytics, data preparation, and dashboard reporting.
+
+🎯 **Business Objective**
+
+The dashboard is designed to help organizations:
+
+➤ Understand employee demographics and workforce composition
+
+➤ Analyze department and role-based distribution
+
+➤ Track key HR metrics at a glance
+
+➤ Support data-driven HR planning and reporting
+
+📊 **Key Insights from the Dashboard**
+
+➤ Overall employee headcount overview
+
+➤ Workforce distribution across departments and roles
+
+➤ Demographic insights such as gender and age analysis
+
+➤ Identification of workforce concentration and patterns
+
+➤ Consolidated HR KPIs for management reporting
