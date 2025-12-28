@@ -16,7 +16,7 @@ These projects demonstrate strong skills in Excel analytics, data summarization,
 
 📁 Dashboards Included
 
-1️⃣ **Sales Performance Dashboard (Excel)**
+## 1️⃣ **Sales Performance Dashboard (Excel)**
 
 File: Excel - Sales Performance Dashboard.xlsx
 
@@ -41,12 +41,10 @@ It provides a high-level view of sales trends and performance metrics to support
 
 ➤ Charts & visual reporting
 
-➤ Data cleaning and structuring
-
 ➤ Business-focused dashboard design
 
 
-2️⃣ **Pivot Tables Analysis Dashboard (Excel)**
+## 2️⃣ **Pivot Tables Analysis Dashboard (Excel)**
 
 File: Excel - Pivot Tables Dashboard.xlsx
 
@@ -67,8 +65,6 @@ It enables users to slice and summarize data efficiently for quick exploratory a
 
 **Skills Demonstrated**:
 
-➤ Pivot Tables & Pivot Charts
-
 ➤ Data aggregation and summarization
 
 ➤ Interactive Excel analysis
@@ -76,8 +72,6 @@ It enables users to slice and summarize data efficiently for quick exploratory a
 ➤ Analytical thinking using Excel
 
 🛠 **Tools & Skills Used**
-
-➤ Microsoft Excel
 
 ➤ Pivot Tables & Pivot Charts
 
@@ -87,4 +81,40 @@ It enables users to slice and summarize data efficiently for quick exploratory a
 
 ➤ Business & Sales Analytics
 
-➤ Dashboard Design & Reporting
+## 3. Sanu Group Sales Dashboard | Excel
+
+📌 **Project Overview**
+
+This project features a Sales Performance Dashboard built in Microsoft Excel using structured sales data from Sanu Group.
+The dashboard converts raw transactional data into clear, visual insights that help business users track sales performance, trends, and key metrics efficiently.
+
+It demonstrates strong skills in Excel analytics, data preparation, and dashboard design.
+
+<img width="1630" height="636" alt="Sanu Group Dashboard Image" src="https://github.com/user-attachments/assets/ddf5f12d-1bc0-4b11-a3e9-1d28d1301af7" />
+
+
+🎯 **Business Objective**
+
+The primary goal of this dashboard is to:
+
+Monitor overall sales performance
+
+Identify revenue trends over time
+
+Analyze product and category contribution
+
+Support quick, data-driven business decisions
+
+📊 **Key Insights from the Dashboard**
+
+Overview of total sales and revenue performance
+
+Time-based sales trends to identify growth patterns
+
+Product / category-level performance analysis
+
+
+
+Identification of top-performing and low-performing areas
+
+Consolidated KPIs for management-level reporting
