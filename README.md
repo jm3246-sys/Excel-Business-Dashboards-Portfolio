@@ -18,6 +18,11 @@ These projects demonstrate strong skills in Excel analytics, data summarization,
 
 ## 1️⃣ **Cyera HR Employee Analytics Dashboard | Excel**
 
+![HR Analytics](https://img.shields.io/badge/HR-Analytics-6A1B9A)
+![Employee Insights](https://img.shields.io/badge/Employee-Insights-00897B)
+![Workforce Analytics](https://img.shields.io/badge/Workforce-Analytics-3949AB)
+![People Analytics](https://img.shields.io/badge/People-Analytics-F06292)
+
 📌 **Project Overview**
 
 This project presents an HR Employee Analytics Dashboard built using Microsoft Excel to analyze workforce data and deliver insights related to employee demographics, distribution, and organizational metrics.
@@ -54,6 +59,10 @@ The dashboard is designed to help organizations:
 
 ## 2️⃣ **Excel Sales Performance Dashboard**
 
+![Sales Analytics](https://img.shields.io/badge/Sales-Analytics-FF6F00)
+![Performance Tracking](https://img.shields.io/badge/Performance-Tracking-2E7D32)
+![KPI Dashboard](https://img.shields.io/badge/KPI-Dashboard-1E88E5)
+
 Description:
 
 An interactive Excel dashboard built to monitor sales performance across key business dimensions.
@@ -82,6 +91,12 @@ It provides a high-level view of sales trends and performance metrics to support
 
 
 ## 3. 📊 Fyrex Ecommerce Excel Sales Analytics Dashboard
+
+![E-Commerce Analytics](https://img.shields.io/badge/E--Commerce-Analytics-F4511E)
+![YoY Analysis](https://img.shields.io/badge/YoY-Analysis-5E35B1)
+![Profit Analysis](https://img.shields.io/badge/Profit-Analysis-2E7D32)
+![Geographic Analysis](https://img.shields.io/badge/Geographic-Analysis-00838F)
+
 
 📌 **Project Overview**
 
@@ -126,6 +141,11 @@ The analysis is based on a detailed sales dataset containing:
 
 ## 4. 📊 Gatoes Sales Performance Dashboard
 
+![Customer Analytics](https://img.shields.io/badge/Customer-Analytics-8E24AA)
+![Regional Sales](https://img.shields.io/badge/Regional-Sales-00695C)
+![Trend Analysis](https://img.shields.io/badge/Trend-Analysis-3949AB)
+
+
 📌 **Project Overview**
 
 This project features a Sales Performance Dashboard built in Microsoft Excel, developed using transactional sales data.
@@ -169,6 +189,10 @@ The analysis is based on a structured sales dataset containing:
 
 ## 5. 📊 Mococto Sales Analytics Dashboard
 
+![Target vs Actual](https://img.shields.io/badge/Target-vs%20Actual-D32F2F)
+![KPI Tracking](https://img.shields.io/badge/KPI-Tracking-1976D2)
+![Executive Dashboard](https://img.shields.io/badge/Executive-Dashboard-455A64)
+
 📌 **Project Overview**
 
 This repository contains a professional Excel Sales Analysis Dashboard designed to track business performance against targets and support data-driven decision-making.
@@ -202,6 +226,11 @@ The dashboard focuses on high-impact business metrics, including:
 
 
 ## 6. Sanu Group Sales Dashboard | Excel
+
+![Business Reporting](https://img.shields.io/badge/Business-Reporting-795548)
+![Revenue Analysis](https://img.shields.io/badge/Revenue-Analysis-388E3C)
+![Sales Trends](https://img.shields.io/badge/Sales-Trends-0288D1)
+
 
 📌 **Project Overview**
 
